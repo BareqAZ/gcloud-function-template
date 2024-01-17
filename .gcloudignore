@@ -1,0 +1,13 @@
+.gcloudignore
+.git
+.gitignore
+.venv
+.env
+.pytest_cache
+README.md
+__pycache__/
+/requirements_dev.txt
+/linter_config.cfg
+/run_linters.sh
+/run.sh
+/tests/
